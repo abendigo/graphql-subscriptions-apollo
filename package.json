@@ -1,0 +1,13 @@
+{
+  "name": "minimal-graphql-subscription",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.6.9",
+    "graphql": "^14.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
